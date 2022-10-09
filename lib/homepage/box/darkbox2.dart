@@ -20,7 +20,7 @@ class _DarkBox2State extends State<DarkBox2> {
       decoration: const BoxDecoration(
         color: Color.fromARGB(255, 45, 45, 45),
         image: DecorationImage(
-          image: AssetImage('images3/kulliye.png'),
+          image: AssetImage('assets/images3/kulliye.png'),
         ),
       ),
       child: Column(

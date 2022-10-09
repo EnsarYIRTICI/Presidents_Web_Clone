@@ -34,7 +34,7 @@ class _CategoryButtonsState extends State<CategoryButtons> {
             height: 2,
             width: 260,
             child: Image(
-                image: AssetImage('images/borderbottom.png'),
+                image: AssetImage('assets/images/borderbottom.png'),
                 repeat: ImageRepeat.repeatX),
           ),
         ),
@@ -60,7 +60,7 @@ class _CategoryButtonsState extends State<CategoryButtons> {
             height: 2,
             width: 260,
             child: Image(
-                image: AssetImage('images/borderbottom.png'),
+                image: AssetImage('assets/images/borderbottom.png'),
                 repeat: ImageRepeat.repeatX),
           ),
         ),
@@ -83,7 +83,7 @@ class _CategoryButtonsState extends State<CategoryButtons> {
             height: 2,
             width: 260,
             child: Image(
-                image: AssetImage('images/borderbottom.png'),
+                image: AssetImage('assets/images/borderbottom.png'),
                 repeat: ImageRepeat.repeatX),
           ),
         ),
@@ -106,7 +106,7 @@ class _CategoryButtonsState extends State<CategoryButtons> {
             height: 2,
             width: 260,
             child: Image(
-                image: AssetImage('images/borderbottom.png'),
+                image: AssetImage('assets/images/borderbottom.png'),
                 repeat: ImageRepeat.repeatX),
           ),
         ),
@@ -129,7 +129,7 @@ class _CategoryButtonsState extends State<CategoryButtons> {
             height: 2,
             width: 260,
             child: Image(
-                image: AssetImage('images/borderbottom.png'),
+                image: AssetImage('assets/images/borderbottom.png'),
                 repeat: ImageRepeat.repeatX),
           ),
         ),
@@ -152,7 +152,7 @@ class _CategoryButtonsState extends State<CategoryButtons> {
             height: 2,
             width: 260,
             child: Image(
-                image: AssetImage('images/borderbottom.png'),
+                image: AssetImage('assets/images/borderbottom.png'),
                 repeat: ImageRepeat.repeatX),
           ),
         ),
@@ -175,7 +175,7 @@ class _CategoryButtonsState extends State<CategoryButtons> {
             height: 2,
             width: 260,
             child: Image(
-                image: AssetImage('images/borderbottom.png'),
+                image: AssetImage('assets/images/borderbottom.png'),
                 repeat: ImageRepeat.repeatX),
           ),
         ),
@@ -198,7 +198,7 @@ class _CategoryButtonsState extends State<CategoryButtons> {
             height: 2,
             width: 260,
             child: Image(
-                image: AssetImage('images/borderbottom.png'),
+                image: AssetImage('assets/images/borderbottom.png'),
                 repeat: ImageRepeat.repeatX),
           ),
         ),
@@ -221,7 +221,7 @@ class _CategoryButtonsState extends State<CategoryButtons> {
             height: 2,
             width: 260,
             child: Image(
-                image: AssetImage('images/borderbottom.png'),
+                image: AssetImage('assets/images/borderbottom.png'),
                 repeat: ImageRepeat.repeatX),
           ),
         ),
@@ -244,7 +244,7 @@ class _CategoryButtonsState extends State<CategoryButtons> {
             height: 2,
             width: 260,
             child: Image(
-                image: AssetImage('images/borderbottom.png'),
+                image: AssetImage('assets/images/borderbottom.png'),
                 repeat: ImageRepeat.repeatX),
           ),
         ),
@@ -267,7 +267,7 @@ class _CategoryButtonsState extends State<CategoryButtons> {
             height: 2,
             width: 260,
             child: Image(
-                image: AssetImage('images/borderbottom.png'),
+                image: AssetImage('assets/images/borderbottom.png'),
                 repeat: ImageRepeat.repeatX),
           ),
         ),

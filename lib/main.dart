@@ -47,7 +47,7 @@ class _HomeScreenState extends State<HomeScreen> {
               image: DecorationImage(
                 alignment: Alignment.topCenter,
                 fit: BoxFit.fitWidth,
-                image: AssetImage('images/kirmizitayip2.png'),
+                image: AssetImage('assets/images/kirmizitayip2.png'),
               ),
             ),
             child: Column(

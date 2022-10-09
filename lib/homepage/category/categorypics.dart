@@ -21,7 +21,7 @@ class _CategoryPicsState extends State<CategoryPics> {
               height: 96,
               decoration: const BoxDecoration(
                 image: DecorationImage(
-                  image: AssetImage('images/resim1.jpg'),
+                  image: AssetImage('assets/images/resim1.jpg'),
                 ),
               ),
             ),
@@ -36,7 +36,7 @@ class _CategoryPicsState extends State<CategoryPics> {
               height: 96,
               decoration: const BoxDecoration(
                 image: DecorationImage(
-                  image: AssetImage('images/resim2.jpg'),
+                  image: AssetImage('assets/images/resim2.jpg'),
                 ),
               ),
             ),
@@ -51,7 +51,7 @@ class _CategoryPicsState extends State<CategoryPics> {
               height: 70,
               decoration: const BoxDecoration(
                 image: DecorationImage(
-                  image: AssetImage('images/resim3.png'),
+                  image: AssetImage('assets/images/resim3.png'),
                 ),
               ),
             ),
@@ -66,7 +66,7 @@ class _CategoryPicsState extends State<CategoryPics> {
               height: 70,
               decoration: const BoxDecoration(
                 image: DecorationImage(
-                  image: AssetImage('images/resim4.png'),
+                  image: AssetImage('assets/images/resim4.png'),
                 ),
               ),
             ),
@@ -81,7 +81,7 @@ class _CategoryPicsState extends State<CategoryPics> {
               height: 70,
               decoration: const BoxDecoration(
                 image: DecorationImage(
-                  image: AssetImage('images/resim5.png'),
+                  image: AssetImage('assets/images/resim5.png'),
                 ),
               ),
             ),
@@ -96,7 +96,7 @@ class _CategoryPicsState extends State<CategoryPics> {
               height: 70,
               decoration: const BoxDecoration(
                 image: DecorationImage(
-                  image: AssetImage('images/resim6.png'),
+                  image: AssetImage('assets/images/resim6.png'),
                 ),
               ),
             ),
@@ -111,7 +111,7 @@ class _CategoryPicsState extends State<CategoryPics> {
               height: 70,
               decoration: const BoxDecoration(
                 image: DecorationImage(
-                  image: AssetImage('images/resim7.png'),
+                  image: AssetImage('assets/images/resim7.png'),
                 ),
               ),
             ),
@@ -126,7 +126,7 @@ class _CategoryPicsState extends State<CategoryPics> {
               height: 70,
               decoration: const BoxDecoration(
                 image: DecorationImage(
-                  image: AssetImage('images/resim8.png'),
+                  image: AssetImage('assets/images/resim8.png'),
                 ),
               ),
             ),
@@ -141,7 +141,7 @@ class _CategoryPicsState extends State<CategoryPics> {
               height: 70,
               decoration: const BoxDecoration(
                 image: DecorationImage(
-                  image: AssetImage('images/resim9.png'),
+                  image: AssetImage('assets/images/resim9.png'),
                 ),
               ),
             ),

@@ -25,7 +25,7 @@ class _SearchBarState extends State<SearchBar> {
         decoration: BoxDecoration(
           image: const DecorationImage(
             repeat: ImageRepeat.repeatX,
-            image: AssetImage('images/background.png'),
+            image: AssetImage('assets/images/background.png'),
           ),
           color: Colors.grey[700],
         ),

@@ -27,7 +27,7 @@ class _DarkBoxState extends State<DarkBox> {
               height: 175,
               decoration: const BoxDecoration(
                 image: DecorationImage(
-                  image: AssetImage('images3/ataturkozela1.png'),
+                  image: AssetImage('assets/images3/ataturkozela1.png'),
                 ),
               ),
             ),
@@ -42,7 +42,7 @@ class _DarkBoxState extends State<DarkBox> {
                   width: 300,
                   decoration: const BoxDecoration(
                     image: DecorationImage(
-                      image: AssetImage('images3/projeler1.png'),
+                      image: AssetImage('assets/images3/projeler1.png'),
                     ),
                   ),
                 ),
@@ -54,7 +54,7 @@ class _DarkBoxState extends State<DarkBox> {
                   width: 550,
                   decoration: const BoxDecoration(
                     image: DecorationImage(
-                      image: AssetImage('images3/projelerbuton.png'),
+                      image: AssetImage('assets/images3/projelerbuton.png'),
                     ),
                   ),
                   child: Row(
@@ -67,7 +67,8 @@ class _DarkBoxState extends State<DarkBox> {
                           width: 100,
                           decoration: const BoxDecoration(
                             image: DecorationImage(
-                              image: AssetImage('images4/bisiklet-logo.png'),
+                              image: AssetImage(
+                                  'assets/images4/bisiklet-logo.png'),
                             ),
                           ),
                         ),
@@ -80,7 +81,7 @@ class _DarkBoxState extends State<DarkBox> {
                           decoration: const BoxDecoration(
                             image: DecorationImage(
                               image: AssetImage(
-                                  'images4/p_antarktika_ustlogo.png'),
+                                  'assets/images4/p_antarktika_ustlogo.png'),
                             ),
                           ),
                         ),
@@ -92,7 +93,7 @@ class _DarkBoxState extends State<DarkBox> {
                           width: 100,
                           decoration: const BoxDecoration(
                             image: DecorationImage(
-                              image: AssetImage('images4/hep-f1.png'),
+                              image: AssetImage('assets/images4/hep-f1.png'),
                             ),
                           ),
                         ),
@@ -104,7 +105,8 @@ class _DarkBoxState extends State<DarkBox> {
                           width: 100,
                           decoration: const BoxDecoration(
                             image: DecorationImage(
-                              image: AssetImage('images4/yatyarislari.png'),
+                              image:
+                                  AssetImage('assets/images4/yatyarislari.png'),
                             ),
                           ),
                         ),
@@ -116,7 +118,8 @@ class _DarkBoxState extends State<DarkBox> {
                           width: 100,
                           decoration: const BoxDecoration(
                             image: DecorationImage(
-                              image: AssetImage('images4/proje-expo-logo.jpg'),
+                              image: AssetImage(
+                                  'assets/images4/proje-expo-logo.jpg'),
                             ),
                           ),
                         ),

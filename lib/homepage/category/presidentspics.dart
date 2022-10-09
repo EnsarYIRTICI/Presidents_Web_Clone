@@ -38,7 +38,7 @@ class _PresidentsPicsState extends State<PresidentsPics> {
                     decoration: const BoxDecoration(
                       image: DecorationImage(
                         repeat: ImageRepeat.repeatX,
-                        image: AssetImage('images/background1.png'),
+                        image: AssetImage('assets/images/background1.png'),
                       ),
                     ),
                   ),
@@ -61,7 +61,7 @@ class _PresidentsPicsState extends State<PresidentsPics> {
                           height: 250,
                           decoration: const BoxDecoration(
                             image: DecorationImage(
-                              image: AssetImage('images2/ataturk.jpg'),
+                              image: AssetImage('assets/images2/ataturk.jpg'),
                             ),
                           ),
                         ),
@@ -90,7 +90,7 @@ class _PresidentsPicsState extends State<PresidentsPics> {
                         width: 200,
                         decoration: const BoxDecoration(
                           image: DecorationImage(
-                            image: AssetImage('images/cizgi.png'),
+                            image: AssetImage('assets/images/cizgi.png'),
                           ),
                         ),
                       ),
@@ -101,7 +101,7 @@ class _PresidentsPicsState extends State<PresidentsPics> {
                           height: 250,
                           decoration: const BoxDecoration(
                             image: DecorationImage(
-                              image: AssetImage('images2/gursel.jpg'),
+                              image: AssetImage('assets/images2/gursel.jpg'),
                             ),
                           ),
                         ),
@@ -130,7 +130,7 @@ class _PresidentsPicsState extends State<PresidentsPics> {
                         width: 200,
                         decoration: const BoxDecoration(
                           image: DecorationImage(
-                            image: AssetImage('images/cizgi.png'),
+                            image: AssetImage('assets/images/cizgi.png'),
                           ),
                         ),
                       ),
@@ -141,7 +141,7 @@ class _PresidentsPicsState extends State<PresidentsPics> {
                           height: 250,
                           decoration: const BoxDecoration(
                             image: DecorationImage(
-                              image: AssetImage('images2/evren.jpg'),
+                              image: AssetImage('assets/images2/evren.jpg'),
                             ),
                           ),
                         ),
@@ -170,7 +170,7 @@ class _PresidentsPicsState extends State<PresidentsPics> {
                         width: 200,
                         decoration: const BoxDecoration(
                           image: DecorationImage(
-                            image: AssetImage('images/cizgi.png'),
+                            image: AssetImage('assets/images/cizgi.png'),
                           ),
                         ),
                       ),
@@ -181,7 +181,7 @@ class _PresidentsPicsState extends State<PresidentsPics> {
                           height: 250,
                           decoration: const BoxDecoration(
                             image: DecorationImage(
-                              image: AssetImage('images2/sezer.jpg'),
+                              image: AssetImage('assets/images2/sezer.jpg'),
                             ),
                           ),
                         ),
@@ -210,7 +210,7 @@ class _PresidentsPicsState extends State<PresidentsPics> {
                         width: 200,
                         decoration: const BoxDecoration(
                           image: DecorationImage(
-                            image: AssetImage('images/cizgi.png'),
+                            image: AssetImage('assets/images/cizgi.png'),
                           ),
                         ),
                       ),
@@ -228,7 +228,7 @@ class _PresidentsPicsState extends State<PresidentsPics> {
                           height: 250,
                           decoration: const BoxDecoration(
                             image: DecorationImage(
-                              image: AssetImage('images2/inonu.jpg'),
+                              image: AssetImage('assets/images2/inonu.jpg'),
                             ),
                           ),
                         ),
@@ -257,7 +257,7 @@ class _PresidentsPicsState extends State<PresidentsPics> {
                         width: 200,
                         decoration: const BoxDecoration(
                           image: DecorationImage(
-                            image: AssetImage('images/cizgi.png'),
+                            image: AssetImage('assets/images/cizgi.png'),
                           ),
                         ),
                       ),
@@ -268,7 +268,7 @@ class _PresidentsPicsState extends State<PresidentsPics> {
                           height: 250,
                           decoration: const BoxDecoration(
                             image: DecorationImage(
-                              image: AssetImage('images2/sunay.jpg'),
+                              image: AssetImage('assets/images2/sunay.jpg'),
                             ),
                           ),
                         ),
@@ -297,7 +297,7 @@ class _PresidentsPicsState extends State<PresidentsPics> {
                         width: 200,
                         decoration: const BoxDecoration(
                           image: DecorationImage(
-                            image: AssetImage('images/cizgi.png'),
+                            image: AssetImage('assets/images/cizgi.png'),
                           ),
                         ),
                       ),
@@ -308,7 +308,7 @@ class _PresidentsPicsState extends State<PresidentsPics> {
                           height: 250,
                           decoration: const BoxDecoration(
                             image: DecorationImage(
-                              image: AssetImage('images2/ozal.jpg'),
+                              image: AssetImage('assets/images2/ozal.jpg'),
                             ),
                           ),
                         ),
@@ -337,7 +337,7 @@ class _PresidentsPicsState extends State<PresidentsPics> {
                         width: 200,
                         decoration: const BoxDecoration(
                           image: DecorationImage(
-                            image: AssetImage('images/cizgi.png'),
+                            image: AssetImage('assets/images/cizgi.png'),
                           ),
                         ),
                       ),
@@ -348,7 +348,7 @@ class _PresidentsPicsState extends State<PresidentsPics> {
                           height: 250,
                           decoration: const BoxDecoration(
                             image: DecorationImage(
-                              image: AssetImage('images2/agul.jpg'),
+                              image: AssetImage('assets/images2/agul.jpg'),
                             ),
                           ),
                         ),
@@ -377,7 +377,7 @@ class _PresidentsPicsState extends State<PresidentsPics> {
                         width: 200,
                         decoration: const BoxDecoration(
                           image: DecorationImage(
-                            image: AssetImage('images/cizgi.png'),
+                            image: AssetImage('assets/images/cizgi.png'),
                           ),
                         ),
                       ),
@@ -395,7 +395,7 @@ class _PresidentsPicsState extends State<PresidentsPics> {
                           height: 250,
                           decoration: const BoxDecoration(
                             image: DecorationImage(
-                              image: AssetImage('images2/bayar.jpg'),
+                              image: AssetImage('assets/images2/bayar.jpg'),
                             ),
                           ),
                         ),
@@ -424,7 +424,7 @@ class _PresidentsPicsState extends State<PresidentsPics> {
                         width: 200,
                         decoration: const BoxDecoration(
                           image: DecorationImage(
-                            image: AssetImage('images/cizgi.png'),
+                            image: AssetImage('assets/images/cizgi.png'),
                           ),
                         ),
                       ),
@@ -435,7 +435,7 @@ class _PresidentsPicsState extends State<PresidentsPics> {
                           height: 250,
                           decoration: const BoxDecoration(
                             image: DecorationImage(
-                              image: AssetImage('images2/koruturk.jpg'),
+                              image: AssetImage('assets/images2/koruturk.jpg'),
                             ),
                           ),
                         ),
@@ -464,7 +464,7 @@ class _PresidentsPicsState extends State<PresidentsPics> {
                         width: 200,
                         decoration: const BoxDecoration(
                           image: DecorationImage(
-                            image: AssetImage('images/cizgi.png'),
+                            image: AssetImage('assets/images/cizgi.png'),
                           ),
                         ),
                       ),
@@ -475,7 +475,7 @@ class _PresidentsPicsState extends State<PresidentsPics> {
                           height: 250,
                           decoration: const BoxDecoration(
                             image: DecorationImage(
-                              image: AssetImage('images2/demirel.jpg'),
+                              image: AssetImage('assets/images2/demirel.jpg'),
                             ),
                           ),
                         ),
@@ -504,7 +504,7 @@ class _PresidentsPicsState extends State<PresidentsPics> {
                         width: 200,
                         decoration: const BoxDecoration(
                           image: DecorationImage(
-                            image: AssetImage('images/cizgi.png'),
+                            image: AssetImage('assets/images/cizgi.png'),
                           ),
                         ),
                       ),

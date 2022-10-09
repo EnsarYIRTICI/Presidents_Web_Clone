@@ -20,7 +20,7 @@ class _DarkBox2P1State extends State<DarkBox2P1> {
             height: 55,
             decoration: const BoxDecoration(
               image: DecorationImage(
-                image: AssetImage('images3/logoo1.png'),
+                image: AssetImage('assets/images3/logoo1.png'),
               ),
             ),
           ),
@@ -69,7 +69,7 @@ class _DarkBox2P1State extends State<DarkBox2P1> {
                       height: 30,
                       decoration: const BoxDecoration(
                         image: DecorationImage(
-                          image: AssetImage('images3/twitter01a.png'),
+                          image: AssetImage('assets/images3/twitter01a.png'),
                         ),
                       ),
                     ),
@@ -81,7 +81,7 @@ class _DarkBox2P1State extends State<DarkBox2P1> {
                       height: 30,
                       decoration: const BoxDecoration(
                         image: DecorationImage(
-                          image: AssetImage('images3/facebook01a.png'),
+                          image: AssetImage('assets/images3/facebook01a.png'),
                         ),
                       ),
                     ),
@@ -93,7 +93,7 @@ class _DarkBox2P1State extends State<DarkBox2P1> {
                       height: 30,
                       decoration: const BoxDecoration(
                         image: DecorationImage(
-                          image: AssetImage('images3/instagram01a.png'),
+                          image: AssetImage('assets/images3/instagram01a.png'),
                         ),
                       ),
                     ),
@@ -105,7 +105,7 @@ class _DarkBox2P1State extends State<DarkBox2P1> {
                       height: 30,
                       decoration: const BoxDecoration(
                         image: DecorationImage(
-                          image: AssetImage('images3/youtube01a.png'),
+                          image: AssetImage('assets/images3/youtube01a.png'),
                         ),
                       ),
                     ),
@@ -136,7 +136,7 @@ class _DarkBox2P1State extends State<DarkBox2P1> {
                       height: 30,
                       decoration: const BoxDecoration(
                         image: DecorationImage(
-                          image: AssetImage('images3/twitter01a.png'),
+                          image: AssetImage('assets/images3/twitter01a.png'),
                         ),
                       ),
                     ),
@@ -148,7 +148,7 @@ class _DarkBox2P1State extends State<DarkBox2P1> {
                       height: 30,
                       decoration: const BoxDecoration(
                         image: DecorationImage(
-                          image: AssetImage('images3/facebook01a.png'),
+                          image: AssetImage('assets/images3/facebook01a.png'),
                         ),
                       ),
                     ),
@@ -160,7 +160,7 @@ class _DarkBox2P1State extends State<DarkBox2P1> {
                       height: 30,
                       decoration: const BoxDecoration(
                         image: DecorationImage(
-                          image: AssetImage('images3/instagram01a.png'),
+                          image: AssetImage('assets/images3/instagram01a.png'),
                         ),
                       ),
                     ),
@@ -172,7 +172,7 @@ class _DarkBox2P1State extends State<DarkBox2P1> {
                       height: 30,
                       decoration: const BoxDecoration(
                         image: DecorationImage(
-                          image: AssetImage('images3/youtube01a.png'),
+                          image: AssetImage('assets/images3/youtube01a.png'),
                         ),
                       ),
                     ),
@@ -184,7 +184,7 @@ class _DarkBox2P1State extends State<DarkBox2P1> {
                       height: 30,
                       decoration: const BoxDecoration(
                         image: DecorationImage(
-                          image: AssetImage('images3/ios01a.png'),
+                          image: AssetImage('assets/images3/ios01a.png'),
                         ),
                       ),
                     ),
@@ -196,7 +196,7 @@ class _DarkBox2P1State extends State<DarkBox2P1> {
                       height: 30,
                       decoration: const BoxDecoration(
                         image: DecorationImage(
-                          image: AssetImage('images3/android01a.png'),
+                          image: AssetImage('assets/images3/android01a.png'),
                         ),
                       ),
                     ),
